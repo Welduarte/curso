@@ -1,6 +1,4 @@
 <?php
 
-
 echo "Olá mundo";
-
-echo "<hr>Olá conflito";
+echo "<hr>Olá Well e Conflito!";
